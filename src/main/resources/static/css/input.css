@@ -1,0 +1,57 @@
+form{
+    position: relative;
+    top: 100px;
+    width: 880px;
+    height: 400px;
+    overflow: hidden;
+}
+
+#input-sidebar{
+    position: absolute;
+    overflow: hidden;
+    width: 180px;
+    height: 400px;
+}
+
+
+#result-id{
+    position: relative;
+    top: 200px;
+    margin: 0 auto;
+    width: 50%;
+    display: grid;
+    justify-content: center;
+}
+
+h2{
+    position: absolute;
+    display: block;
+    top: 20px;
+    margin-bottom: 20px;
+}
+
+#inputfile{
+    width: 100px;
+    }
+
+#print-btn{
+}
+
+#sentenceCountLabel{
+
+}
+
+.table{
+
+}
+
+#text{
+  width: 700px;
+  height: 400px;
+  left: 180px;
+  position: absolute;
+  overflow: hidden;
+  min-height: 40px;
+  line-height: 20px;
+  border: solid #CDC6AE;
+}
